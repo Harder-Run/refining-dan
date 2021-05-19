@@ -1,5 +1,5 @@
-apt-get update
-apt install sudo
+apt-get update (如果已经安装了sudo或者系统自带可以直接sudo apt-get update)
+apt install sudo (已经安装了sudo或者系统自带可以跳过这步)
 sudo apt install clinfo && clinfo
 sudo apt install libboost-dev libboost-program-options-dev libboost-filesystem-dev opencl-headers ocl-icd-libopencl1 ocl-icd-opencl-dev zlib1g-dev
 git clone https://github.com/leela-zero/leela-zero
