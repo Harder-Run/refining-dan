@@ -1,0 +1,13 @@
+leelaz编译代码网址(Linux)：https://github.com/dergo853/refining-dan/blob/main/leelazero%20Linux%20compile
+
+本机炼丹教程网址(中英双语)：https://github.com/dergo853/DerGo/blob/main/Training%20AI%20Tutorial.txt
+
+leelaz源代码,自行下载(tf文件夹在training目录里)：https://github.com/leela-zero/leela-zero/archive/refs/tags/v0.17.tar.gz
+
+一些棋谱网址：
+computer-go-dataset:   https://github.com/yenw/computer-go-dataset
+LeelaZero:   https://sjeng.org/zero/
+Aya-Self play:   http://www.yss-aya.com/ayaself/ayaself.html
+CGOS:   http://www.yss-aya.com/cgos/19x19/archive.html
+KGS:   https://u-go.net/gamerecords/
+批量下载野狐围棋棋谱:   https://aistudio.baidu.com/aistudio/projectdetail/791124?channelType=0&channel=0
